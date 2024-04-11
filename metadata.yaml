@@ -1,0 +1,43 @@
+_repo: The-secret-of-Oaklands_73245
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Evison, G. Henry
+    aliases:
+    - Evison, G. H.
+    - Evison, George Henry
+    - Evison, Henry
+    - Evison, H.
+    birthdate: 1871
+    deathdate: 1928
+    gutenberg_agent_id: '51047'
+    url: http://www.gutenberg.org/2009/agents/51047
+    wikipedia: https://en.wikipedia.org/wiki/G._H._Evison
+creator:
+  author:
+    agent_name: Kelly, M. Harding (Minnie Harding)
+    alias: Kelly, Minnie Harding
+    gutenberg_agent_id: '56998'
+    url: http://www.gutenberg.org/2009/agents/56998
+description: ''
+gutenberg_issued: '2024-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73245'
+language: en
+pgterms:marc905: 20240317211854kelly
+pgterms:marc906: '1919'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bR.T.S.--Lutterworth Press, $c1919, pubdate 1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Governesses -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The secret of Oaklands
+url: http://www.gutenberg.org/ebooks/73245
