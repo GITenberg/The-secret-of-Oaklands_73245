@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '51047'
     url: http://www.gutenberg.org/2009/agents/51047
     wikipedia: https://en.wikipedia.org/wiki/G._H._Evison
+covers:
+- cover_type: archival
+  image_path: 73245-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Kelly, M. Harding (Minnie Harding)
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '56998'
     url: http://www.gutenberg.org/2009/agents/56998
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73245#The-secret-of-Oaklands
 gutenberg_issued: '2024-03-24'
 gutenberg_type: Text
 identifiers:
